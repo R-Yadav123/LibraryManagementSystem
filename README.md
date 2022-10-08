@@ -8,7 +8,7 @@ The portal of the application has two roles in which a user can select: member o
 The project includes a Home Page, Login Form, Services (for both member and admin), images, buttons, jCalendar, jCheckBoxes, jTable, Menu Bars, and more.
 Furthermore, dialog message boxes are used to adjust for all possible combinations/criterias the user inputs.
 The information and services will differ from member and admin roles.
-The information is then stored in various MySQl tables with many queries and titles.
+The information is then stored in various MySQL tables with many queries and titles.
 The admin is able to manage members and the user is able to view available books, adjust their member details, and check out book(s).
 
 Many topics in Java were used to create this project from if-else statements to connecting Java to the MySQL database.
